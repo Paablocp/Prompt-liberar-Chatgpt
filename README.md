@@ -1,1 +1,1 @@
-# Prompt-liberar-Chatgpt
+Prompt a  para sacar máximo potencial a Chat GPT. TEN EN CUENTA: El uso de este script para usos indebidos o maliciosos es completamente ajeno a mí, solo lo publico con fines educacionales.  SI CHATGPT NO OBEDECE: Crea un nuevo chat y empieza añadiendo el prompt, si sigue sin responder usa /jailbreak
